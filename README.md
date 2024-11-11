@@ -1,2 +1,0 @@
-# azurecloudresume
-Azure Cloud Resume
