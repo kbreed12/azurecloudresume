@@ -1,6 +1,6 @@
 # Azure Cloud Resume
 
-Welcome to the Azure Cloud Resume project. This project showcases the integration of various Azure services to create a cloud-based resume.
+Welcome to my Azure Cloud Resume project. This project showcases the integration of various Azure services to create a cloud-based resume.
 
 ## Features
 
