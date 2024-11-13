@@ -2,7 +2,7 @@
 
 This project showcases my resume hosted on Azure. It demonstrates my skills in cloud computing, web development, and continuous integration/continuous deployment (CI/CD).
 
-## Features
+## Features!
 
 - **Static Website**: Hosted on Azure Blob Storage.
 - **CI/CD Pipeline**: Implemented using GitHub Actions.
